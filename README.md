@@ -9,3 +9,7 @@ df2 = pd.read_excel("Fortaleza.xlsx")
 df3 = pd.read_excel("Natal.xlsx")
 df4 = pd.read_excel("Recife.xlsx")
 df5 = pd.read_excel("Salvador.xlsx")
+
+
+df5.head()
+
